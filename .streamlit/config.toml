@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0077B6"              # Bright medical blue for buttons and accents
+backgroundColor = "#F8F9FA"           # Clean white background
+secondaryBackgroundColor = "#E0F7FA"  # Light teal for cards and input areas
+textColor = "#1B1F3B"                 # Deep navy for high contrast text
+font = "monospace"                    # Modern feel for tech-style display
